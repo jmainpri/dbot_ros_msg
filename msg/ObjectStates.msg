@@ -1,7 +1,2 @@
-string[] name
-string[] mesh_package
-string[] mesh_dir
-string[] mesh_file
-geometry_msgs/PoseStamped[] pose
-
-
+int32 active_object_id
+dbot_ros_msg/ObjectState[] objects_state
